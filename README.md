@@ -22,3 +22,7 @@ AI-powered web app to match resumes with job descriptions using NLP and Machine 
 ## Run Locally
 ```bash
 streamlit run app.py
+## 📸 Screenshots
+
+![Home](ai_resume1.png)
+![Result](ai_resume2.png)
